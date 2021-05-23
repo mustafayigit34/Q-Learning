@@ -1,9 +1,9 @@
 # Q-Learning
 YazLab 5. Proje
 
-### Daha fazla bilgi için --> [Proje Raporu](https://github.com/mustafayigit34/Q-Learning/blob/main/Rapor.pdf)
-
 Q-Learning algoritması ile 50x50'lik matris içerisinde engeller arasında optimum yolu bulma.
+
+### Daha fazla bilgi için --> [Proje Raporu](https://github.com/mustafayigit34/Q-Learning/blob/main/Rapor.pdf)
 
 ## Giriş
 Bu projede ilk olarak açılan arayüzde kullanıcıdan başlangıç ve bitiş konumlarına atama yapmak için veri alındı. Daha sonra ise alınan bu veriler doğrultusunda rastgele engellerden ve geçişlerden oluşan bir çevre (matris) tanımlandı ve bunun ardından rastgele oluşturulan çevreye göre bir ödül tablosu (reward table) oluşturuldu. Elde ettiğimiz çevre ve ödül tablosu üzerinden Q-Learning algoritması kullanılarak Q-table dolduruldu. Algoritma, geliştiriciler tarafından belirlenen süre boyunca çalıştırıldı ve doldurulan Q-table doğrultusunda optimum yol (rota) bulunarak arayüz üzerinde bu yol gösterildi. Ardından da bölüm başına elde edilen ödül ve atılan adım sayısına bağlı olarak iki adet grafik çizdirildi. En son ise engellerin, geçişlerin ve başlangıç-bitiş noktalarının konumları “engel.txt” içerisine yazdırıldı.
