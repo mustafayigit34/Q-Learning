@@ -46,7 +46,7 @@ Daha sonra Q-Learning gerçekleştirilmesi için rastgele bir çevre oluşturulu
 
 ![1](https://user-images.githubusercontent.com/65903573/119260684-8d22cf00-bbdc-11eb-8496-d65d88f73bdc.png) <br>
 
-Oluşturulan çevreye alınan girdi doğrultu-sunda başlangıç-bitiş noktaları eklenir. <br>
+Oluşturulan çevreye alınan girdi doğrultusunda başlangıç-bitiş noktaları eklenir. <br>
 
 ![2](https://user-images.githubusercontent.com/65903573/119260713-ab88ca80-bbdc-11eb-9b8c-97d4e90a62ef.png) <br>
 
