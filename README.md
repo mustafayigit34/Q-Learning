@@ -24,12 +24,12 @@ istenilen hedefe gelinceye kadar hiçbir engele çarpmadan ve en kısa yolu bula
 
 * Verilen 50 * 50’lİk matriste her bir kullanıcı kendine özgü engel oluşturup,matristeki değerleri
 random olarak atayacaktır.Bu matris değerlerini engel.txt dosyasına yazdırılacak.Örnek gösterim
-(1,1,K)(10p).
-* Grafiksel ara yüzde belirlenen yollar, engeller ve duvarlar gösterilecektir(15p).
+(1,1,K).
+* Grafiksel ara yüzde belirlenen yollar, engeller ve duvarlar gösterilecektir.
 * Kullanıcı tarafından bir grafiksel arayüz tasarlanacak, bu ara yüzde ajan başlangıç noktası, hedef
-noktası istenecektir. (15p)
+noktası istenecektir.
 * Herhangi bir başlangıç noktasından hedef noktaya ulaşıncaya kadar ajanın yaptığı
 kazançların/maliyetin(episode via cost) ve bölüm adım sayısının (episode via step) grafiği
-çizdirecek (30p).
+çizdirecek.
 * Sonuç olarak ise başlangıç karesinden hedef kareye giden en kısa yol grafiksel ara yüzde
-gösterilerek yol planı grafik üzerinde çizdirilecek.. (30p).
+gösterilerek yol planı grafik üzerinde çizdirilecek.
