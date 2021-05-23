@@ -65,7 +65,7 @@ Algoritma sonucu bölüm başına elde edilen ödül ve atılan adım sayısı <
 
 üstte görüldüğü gibi tasarlanmış olup <br>
 
-![6](https://user-images.githubusercontent.com/65903573/119260797-189c6000-bbdd-11eb-8e98-ab412a085403.png) <br>
+![6](https://user-images.githubusercontent.com/65903573/119261011-0242d400-bbde-11eb-8794-937323d4c7bd.png) <br>
 
 şeklinde görülmektedir. <br>
 İsterlerden biri olan “engel.txt” içerisine yazdırma işlemi <br>
