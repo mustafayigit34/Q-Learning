@@ -83,12 +83,28 @@ Algoritma sonucu bölüm başına elde edilen ödül ve atılan adım sayısı <
 En sonunda ise Q-Learning algoritması ile elde edilen optimum yol (rota) Pygame modülü kullanılarak görselleştirilmiş hali üstte gösterildiği gibi kullanıcıya sunulur.
 
 ## Kaba Kod
-1) Kullanıcı metin kutularını doldurdu ve “Başla” butonuna tıkladı.
-2) Ajanın öğrenme işlemini yapacağı ortam (çevre) oluşturuldu.
-3) “engel.txt” dosyası oluşturuldu ve dol-duruldu.
-4) Ajan Q-Learning algoritmasını kullana-rak hareket etmeye başladı ve bu doğrultu-da Q-table içeriğini doldurdu.
-5) Ajan engele çarptı ve başa döndü (bu adım öğrenme işlemi tamamlanana kadar sürekli tekrarlandı).
-6) Yapılan hareketler sonucu optimum rota (yol) elde edildi. 
-7) Plot table ve optimum yolun gösterildiği arayüz kullanıcıya sunuldu. 
+* Kullanıcı metin kutularını doldurdu ve “Başla” butonuna tıkladı.
+* Ajanın öğrenme işlemini yapacağı ortam (çevre) oluşturuldu.
+* “engel.txt” dosyası oluşturuldu ve dol-duruldu.
+* Ajan Q-Learning algoritmasını kullana-rak hareket etmeye başladı ve bu doğrultu-da Q-table içeriğini doldurdu.
+* Ajan engele çarptı ve başa döndü (bu adım öğrenme işlemi tamamlanana kadar sürekli tekrarlandı).
+* Yapılan hareketler sonucu optimum rota (yol) elde edildi. 
+* Plot table ve optimum yolun gösterildiği arayüz kullanıcıya sunuldu. 
+
+## Referanslar
+
+- https://medium.com/deep-learning-turkiye/python-i%CC%87le-q-learning-ef6413aa896e
+- https://medium.com/@sddkal/python-ve-makine-%C3%B6%C4%9Frenmesi-q-learning-temelleri-181d29326782
+- https://towardsdatascience.com/a-beginners-guide-to-q-learning-c3e2a30a653c
+- https://knowledge.dataiku.com/latest/kb/analytics-ml/reinforcement-learning-visual/reinforcement-learning-q-learning.html
+- https://www.udemy.com/course/python-ile-yapay-zeka-adan-zye-reinforcement-learning/
+- https://www.youtube.com/watch?v=qhRNvCVVJaA
+- https://stackoverflow.com/
+- https://www.geeksforgeeks.org/
+- https://www.geeksforgeeks.org/python-add-image-on-a-tkinter-button/
+- https://pythonbasics.org/tkinter-image/
+- https://www.pygame.org/docs/
+- https://docs.python.org/3/library/tk.html
+
 
 
