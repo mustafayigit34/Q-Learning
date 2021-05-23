@@ -33,3 +33,12 @@ kazançların/maliyetin(episode via cost) ve bölüm adım sayısının (episode
 çizdirecek.
 * Sonuç olarak ise başlangıç karesinden hedef kareye giden en kısa yol grafiksel ara yüzde
 gösterilerek yol planı grafik üzerinde çizdirilecek.
+
+## Yöntem
+Bu projede izlenilen yol aşağıda anlatılmış-tır:
+İlk olarak “Tkinter” modülü kullanılarak başlangıç-bitiş noktalarının konumları kul-lanıcıdan alınmıştır.
+![input](https://user-images.githubusercontent.com/65903573/119260595-31f0dc80-bbdc-11eb-8607-3bf8da6a61c5.png) <br>
+
+Başla butonuna basıldığında girilen konum değerleri doğrultusunda uygulama çalışma-ya başlayacaktır.
+Daha sonra Q-Learning gerçekleştirilmesi için rastgele bir çevre oluşturulur.
+
