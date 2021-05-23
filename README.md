@@ -76,7 +76,7 @@ Algoritma sonucu bölüm başına elde edilen ödül ve atılan adım sayısı <
 
 ![unknown2](https://user-images.githubusercontent.com/65903573/119260840-58fbde00-bbdd-11eb-82fe-f6541d4f2bde.png) <br>
 
-şeklinde görülmektedir. <br>
+şeklinde görülmektedir. <br> <br>
 
 ![ekran](https://user-images.githubusercontent.com/65903573/119260870-74ff7f80-bbdd-11eb-804f-b30b9b9ab964.png) <br>
 
